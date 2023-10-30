@@ -1,0 +1,20 @@
+h1 {
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:  #30CBC2;
+    width: 223px;
+    top: -470px;
+    left: -757px;
+}
+
+footer {
+    display: inline-block;
+}
+.div {
+    background-color:  #E7E7E7;
+    
+}
